@@ -1,1 +1,9 @@
+/Users/swayansubaral/VendrPay/backend/src/main/java/com/vendrpay/repository/UserRepository.java
 /Users/swayansubaral/VendrPay/backend/src/main/java/com/vendrpay/VendrPayApplication.java
+/Users/swayansubaral/VendrPay/backend/src/main/java/com/vendrpay/dto/AuthResponse.java
+/Users/swayansubaral/VendrPay/backend/src/main/java/com/vendrpay/controller/AuthController.java
+/Users/swayansubaral/VendrPay/backend/src/main/java/com/vendrpay/service/AuthService.java
+/Users/swayansubaral/VendrPay/backend/src/main/java/com/vendrpay/dto/AuthRequest.java
+/Users/swayansubaral/VendrPay/backend/src/main/java/com/vendrpay/model/User.java
+/Users/swayansubaral/VendrPay/backend/src/main/java/com/vendrpay/config/PasswordEncoderConfig.java
+/Users/swayansubaral/VendrPay/backend/src/main/java/com/vendrpay/util/JwtUtil.java
